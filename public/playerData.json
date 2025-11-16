@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Virat Kohli",
+        "country": "India",
+        "role": "Batsman",
+        "battingStyle": "Right-Hand-Bat",
+        "rating": 4.9,
+        "price": 15000000,
+        "image": "https://i.pinimg.com/1200x/2b/b6/d2/2bb6d2ddc2f9fb274f0c2ca5c4185c66.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "role": "All-Rounder",
+        "battingStyle": "Left-Hand-Bat",
+        "rating": 4.8,
+        "price": 12000000,
+        "image": "https://i.pinimg.com/1200x/2c/31/01/2c31015d1d3df874992d5f90c4d9c1ab.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Joe Root",
+        "country": "England",
+        "role": "Batsman",
+        "battingStyle": "Right-Hand-Bat",
+        "rating": 4.7,
+        "price": 13000000,
+        "image": "https://i.pinimg.com/736x/02/a2/76/02a276163796d4c132a9d101bbb472af.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "role": "Batsman",
+        "battingStyle": "Right-Hand-Bat",
+        "rating": 4.8,
+        "price": 1400000,
+        "image": "https://i.pinimg.com/1200x/fb/97/65/fb9765be301f941056e7d35cdda9bb58.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "role": "Batsman",
+        "battingStyle": "Right-Hand-Bat",
+        "rating": 4.9,
+        "price": 14500000,
+        "image": "https://i.pinimg.com/736x/57/fa/59/57fa59de8dc3ee2af4a7319ca0405546.jpg"
+    },
+    {
+        "id": 6,
+        "name": "David Warner",
+        "country": "Australia",
+        "role": "Batsman",
+        "battingStyle": "Left-Hand-Bat",
+        "rating": 4.6,
+        "price": 11000000,
+        "image": "https://i.pinimg.com/736x/42/d2/06/42d206ce378f73a68ea2d0cdc4afdc08.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Jasprit Bumrah",
+        "country": "India",
+        "role": "Bowler",
+        "battingStyle": "Right-Hand-Bat",
+        "rating": 4.8,
+        "price": 13500000,
+        "image": "https://i.pinimg.com/736x/7b/82/00/7b8200ae90984982ffae1a280de7df91.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Shaheen Afridi",
+        "country": "Pakistan",
+        "role": "Bowler",
+        "battingStyle": "Left-Hand-Bat",
+        "rating": 4.7,
+        "price": 12000000,
+        "image": "https://i.pinimg.com/736x/18/65/ba/1865ba7c20f7bc18d006e68df81ecd47.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Ben Stokes",
+        "country": "England",
+        "role": "All-Rounder",
+        "battingStyle": "Left-Hand-Bat",
+        "rating": 4.9,
+        "price": 15500000,
+        "image": "https://i.pinimg.com/736x/73/4e/92/734e929e5c7451dc6d4c13de5210848a.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Pat Cummins",
+        "country": "Australia",
+        "role": "Bowler",
+        "battingStyle": "Right-Hand-Bat",
+        "rating": 4.7,
+        "price": 12500000,
+        "image": "https://i.pinimg.com/736x/5a/b4/0e/5ab40e9b03968643f526c6eecc40996d.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "role": "Bowler",
+        "battingStyle": "Right-Hand-Bat",
+        "rating": 4.8,
+        "price": 13000000,
+        "image": "https://i.pinimg.com/736x/4f/db/0d/4fdb0d6005e4f27a84036af624d7caf9.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Litton Das",
+        "country": "Bangladesh",
+        "role": "Batsman",
+        "battingStyle": "Right-Hand-Bat",
+        "rating": 4.5,
+        "price": 9000000,
+        "image": "https://i.pinimg.com/736x/91/07/54/9107548891e27e424cbce0735f04585b.jpg"
+    }
+]
