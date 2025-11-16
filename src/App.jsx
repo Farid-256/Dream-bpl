@@ -4,6 +4,8 @@ import AvaliablePlayers from './components/AvaliablePlayers'
 import Navbar from './components/Navbar'
 import SeclectedPlayers from './components/SeclectedPlayers'
 import { ToastContainer } from 'react-toastify'
+import Bannar from './components/Bannar'
+import Footer from './components/Footer'
 
 const fetchData = async () => {
   const res = await fetch('/playerData.json')
@@ -42,6 +44,8 @@ function App() {
     <>
       <Navbar availableBalance={availableBalance}></Navbar>
 
+      <Bannar></Bannar>
+
       <section className='w-[90%] mx-auto flex justify-between items-center py-5'>
         <div>
           <h3 className='font-bold text-xl'>{toggle? 'Available Players' : `Seclected Players (${myPlayers.length}/6)`}</h3>
@@ -59,9 +63,9 @@ function App() {
           <AvaliablePlayers myPlayers={myPlayers} setMyplayers={setMyplayers} availableBalance={availableBalance} setAvailableBalance={setAvailableBalance} dataPromise={dataPromise}></AvaliablePlayers>
         </Suspense> : <SeclectedPlayers handleAvavilablesPlayers={handleAvavilablesPlayers} handleDeletePlayer={handleDeletePlayer} myPlayers={myPlayers}></SeclectedPlayers>
       }
+
+      <Footer></Footer>
       <ToastContainer></ToastContainer>
-
-
     </>
   )
 }
